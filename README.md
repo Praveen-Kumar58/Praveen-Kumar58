@@ -6,12 +6,7 @@
  
 </div>
 
-<div align="center">
-  
-  <!-- GitHub Stats Cards -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e39777&fire=e39777&currStreakLabel=e39777" alt="GitHub Streak" />
-  
-</div>
+
 
 ---
 
