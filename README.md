@@ -1,4 +1,4 @@
-![Cycling Animation](cycle.svg)
+![Cycling Animation](assets/cycle.svg)
 
 
 
