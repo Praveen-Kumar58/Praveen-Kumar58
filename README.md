@@ -10,27 +10,17 @@
 
 ---
 
-## 🚀 About Me
+🚀 About Me
+🎓 B.Tech in Computer Science from Siddhartha Institute of Engineering and Technology (CGPA: 8.1/10.0)
+💼 Python Developer & ML Enthusiast passionate about building intelligent solutions
+🔥 Core Interests:
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Mekala Praveen Kumar"
-        self.role = "Python Developer & ML Enthusiast"
-        self.education = {
-            "degree": "B.Tech Computer Science",
-            "university": "Siddhartha Institute of Engineering and Technology",
-            "cgpa": "8.1/10.0"
-        }
-        self.passion = ["Machine Learning", "Web Development", "Problem Solving"]
-        self.current_focus = "Building intelligent solutions with Python & ML"
-        self.fun_fact = "Cricket Player 🏏 who codes between matches!"
-    
-    def get_skills(self):
-        return ["Python", "Machine Learning", "SQL", "Web Development"]
+🤖 Machine Learning & Data Science
+🌐 Web Development & APIs
+🧩 Problem Solving & Algorithm Design
 
-me = Developer()
-print(f"Currently coding as: {me.role}")
+🚀 Current Focus: Building innovative solutions with Python & Machine Learning
+🏏 Fun Fact: Cricket player who codes between matches - because strategy works both on field and in code!
 ```
 
 ---
