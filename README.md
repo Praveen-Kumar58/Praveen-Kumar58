@@ -2,14 +2,6 @@
 # Hi there 👋, I'm Mekala Praveen Kumar  
 ### 🚀 Python | Machine Learning | SQL | Web Development  
 
-![Header](./your-banner.png) <!-- optional: upload a banner image -->
-
----
-
-<!-- GitHub Stats -->
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveen-Kumar58&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Kumar58&layout=compact&theme=radical)  
-
 
 
 <!-- About Me -->
