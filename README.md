@@ -3,9 +3,7 @@
   <!-- Animated Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there!+👋+I'm+Mekala+Praveen+Kumar;Python+Developer+%7C+ML+Engineer+%7C+Problem+Solver;Welcome+to+my+coding+universe!+🚀" alt="Typing SVG" />
   
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  
+ 
 </div>
 
 <div align="center">
