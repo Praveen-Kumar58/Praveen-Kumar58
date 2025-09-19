@@ -1,9 +1,12 @@
 <div align="center">
-  
-  <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there!+👋+I'm+Mekala+Praveen+Kumar;Python+Developer+%7C+ML+Engineer+%7C+Problem+Solver;Welcome+to+my+coding+universe!+🚀" alt="Typing SVG" />
-  
-
+  <!-- Animated Header with Blue Background -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=940&height=60&lines=Hi+there!+👋+I'm+Mekala+Praveen+Kumar;Frontend+Developer+%7C+React+%7C+JavaScript;Middleware+Expert+%7C+APIs+%7C+Node.js;Backend+Developer+%7C+Python+%7C+Databases;Full+Stack+%7C+ML+Engineer+%7C+Problem+Solver;Welcome+to+my+coding+universe!+🚀" alt="Typing SVG" />
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=1e3a8a&style=for-the-badge" alt="profile views" />
+</div>
+<div align="center">
+  <!-- GitHub Stats Cards -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=blue-green&hide_border=true&stroke=0000&background=1E3A8A&ring=60A5FA&fire=60A5FA&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
 
