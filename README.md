@@ -1,19 +1,4 @@
-<div align="center">
-
-  <!-- Permanent Name Header -->
-  <h1 style="color:#1E3A8A; font-size:40px; font-family:Fira Code;">
-    Hi there! I'm Mekala Praveen Kumar
-  </h1>
-
-  <!-- Animated Role Typing SVG -->
-  <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=650&height=60&lines=Frontend;Middleware;Backend" 
-  alt="Typing SVG" 
-/>
-
-
-
-</div>
+![Cycling Animation](cycle.svg)
 
 
 
