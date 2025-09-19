@@ -7,8 +7,7 @@
 <!-- About Me -->
 ### 👨‍💻 About Me  
 - 🎓 B.Tech in Computer Science @ **Siddhartha Institute of Engineering and Technology (CGPA: 8.1)**  
-- 💡 Passionate about **Machine Learning, Python, and solving real-world problems**  
-- 🛠️ Currently working on: **Epilot Hard Landing Prediction System for Commercial Flights**  
+- 💡 Passionate about **Machine Learning, Web Development, and solving real-world problems**    
 - ⚡ Fun fact: I’m also a cricket player & ML enthusiast!  
 
 ---
