@@ -1,11 +1,8 @@
 <div align="center">
-  <!-- Animated Header with Cycling Background -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=FFFFFF&background=FF6B6B00&center=true&vCenter=true&width=940&height=80&lines=Hi+there!+👋+I'm+Mekala+Praveen+Kumar;🎨+Frontend:+React+%7C+HTML+%7C+CSS+%7C+JavaScript;⚙️+Middleware:+APIs+%7C+Node.js+%7C+Express;🗄️+Backend:+Python+%7C+Django+%7C+Databases;🤖+ML+Engineer:+Scikit-learn+%7C+Pandas+%7C+NumPy;🚀+Full+Stack+Developer+%26+Problem+Solver" alt="Typing SVG" />
-  <!-- Animated Background Effect -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,22&height=100&section=header&text=&fontSize=50&animation=twinkling" />
-  <!-- Tech Stack Cycling Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=800&color=4FC3F7&center=true&vCenter=true&width=940&height=40&lines=Frontend+Technologies+Cycling...;React.js+%E2%86%92+HTML5+%E2%86%92+CSS3+%E2%86%92+JavaScript+%E2%86%92+Bootstrap;Middleware+%26+APIs+Processing...;Node.js+%E2%86%92+Express.js+%E2%86%92+REST+APIs+%E2%86%92+GraphQL;Backend+Services+Running...;Python+%E2%86%92+Django+%E2%86%92+MySQL+%E2%86%92+PostgreSQL;Machine+Learning+Models+Training...;Scikit-learn+%E2%86%92+Pandas+%E2%86%92+NumPy+%E2%86%92+TensorFlow" alt="Tech Stack Animation" />
-  </div>
+  <!-- Animated Header with Blue Background -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=940&height=60&lines=Hi+there!+👋+I'm+Mekala+Praveen+Kumar;Frontend+Developer+%7C+%7C+JavaScript;Middleware+%7C+APIs+%7C;Backend+Developer+%7C;" alt="Typing SVG" />
+ </div>
+
 
 
 
