@@ -33,13 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
 </p>
 
----
 
-<!-- Badges -->
-![Profile views](https://komarev.com/ghpvc/?username=Praveen-Kumar58&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/Praveen-Kumar58?label=Follow&style=social)
-
----
 
 <!-- Connect Section -->
 ### 📫 Connect with me
