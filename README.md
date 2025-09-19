@@ -3,17 +3,10 @@
   <!-- Animated Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there!+👋+I'm+Mekala+Praveen+Kumar;Python+Developer+%7C+ML+Engineer+%7C+Problem+Solver;Welcome+to+my+coding+universe!+🚀" alt="Typing SVG" />
   
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  
+
 </div>
 
-<div align="center">
-  
-  <!-- GitHub Stats Cards -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e39777&fire=e39777&currStreakLabel=e39777" alt="GitHub Streak" />
-  
-</div>
+
 
 ---
 
@@ -21,12 +14,12 @@
 
 🎓 **B.Tech in Computer Science** from **Siddhartha Institute of Engineering and Technology** (CGPA: 8.1/10.0)
 
-💼 **Python Developer & ML Enthusiast** passionate about building intelligent solutions
+💼 **Python Developer & ML Enthusiast**
 
 🔥 **Core Interests:**
-- 🤖 Machine Learning & Data Science
-- 🌐 Web Development & APIs
-- 🧩 Problem Solving & Algorithm Design
+- 🤖 Machine Learning
+- 🌐 Web Development
+- 🧩 Problem Solving
 
 🚀 **Current Focus:** Building innovative solutions with Python & Machine Learning
 
