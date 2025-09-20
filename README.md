@@ -1,20 +1,16 @@
-![Cycling Animation](assets/cycle.svg)
-
-
-
-
-
 ---
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <h1>Hey there! I'm Mekala Praveen Kumar</h1>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
 
 ## 🚀 About Me
-
 🎓 **B.Tech in Computer Science** from **Siddhartha Institute of Engineering and Technology** (CGPA: 8.1/10.0)
-
 💼 **Python Developer & ML Enthusiast**
-
 🔥 **Core Interests:**
 - 🤖 Machine Learning
-- 🌐 Web Development
+- 🌐 Web Development  
 - 🧩 Problem Solving
 
 🚀 **Current Focus:** Building innovative solutions with Python & Machine Learning
@@ -48,6 +44,8 @@
 
 </div>
 
+---
+
 
 
 ## 🏆 Achievements & Certifications
@@ -61,7 +59,6 @@
 | 🤖 **Machine Learning** | Slash Mark | ✅ Certified |
 
 </div>
-
 
 
 ## 🤝 Let's Connect & Collaborate!
@@ -78,10 +75,9 @@
 
 <div align="center">
   
-
-
 ### 🏏 When I'm not coding...
-```
+
+```python
 if not coding:
     play_cricket() 
     # Because every developer needs a sport that involves strategy! 🏏
@@ -90,6 +86,7 @@ if not coding:
 ---
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 
 **⭐ From [Mekala Praveen Kumar](https://github.com/praveen-kumar58) - Let's build something amazing together!**
 
